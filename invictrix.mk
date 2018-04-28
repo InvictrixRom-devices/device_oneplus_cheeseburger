@@ -42,3 +42,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="OnePlus5-user 8.0.0 OPR6.170623.013 74 release-keys"
 
 TARGET_VENDOR := oneplus
+
+HAS_DEVICE_CAM := true
