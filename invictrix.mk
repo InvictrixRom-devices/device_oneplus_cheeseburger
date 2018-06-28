@@ -41,6 +41,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=OnePlus/OnePlus5/OnePlus5:8.0.0/OPR6.170623.013/01132342:user/release-keys \
     PRIVATE_BUILD_DESC="OnePlus5-user 8.0.0 OPR6.170623.013 74 release-keys"
 
+# Invictrix maintainer	
+INVICTRIX_MAINTAINER := BlackScorpion3
+
 TARGET_VENDOR := oneplus
 
 HAS_DEVICE_CAM := true
